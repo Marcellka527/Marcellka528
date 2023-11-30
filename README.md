@@ -2,3 +2,4 @@
 Meee
 Szeva
 Starknet
+airdrop
