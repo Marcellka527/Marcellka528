@@ -5,3 +5,4 @@ Starknet
 airdrop
 incomming
 yeaah
+fuck yeee
